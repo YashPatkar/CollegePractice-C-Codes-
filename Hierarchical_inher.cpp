@@ -4,7 +4,7 @@ using namespace std;
 class first_class{
 	public:
 		first_class(){
-		cout<<"this is from first class"<<endl;
+		cout<<"this is from first class from constructor"<<endl;
 		}
 };
 
